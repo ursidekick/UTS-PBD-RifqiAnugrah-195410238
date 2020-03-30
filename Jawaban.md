@@ -1,7 +1,7 @@
 # UTS-PBD-RifqiAnugrah-195410238
 UTS Pengenalan Big Data - Rifqi Anugrah (195410238)
 
-Nomor 1
+##Nomor 1
 Cari dan sebutkan 3 DBMS yang bisa digunakan untuk mengelola big data
 Jawaban :
 
