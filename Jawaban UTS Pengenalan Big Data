@@ -1,9 +1,23 @@
 Nomor 1
 Cari dan sebutkan 3 DBMS yang bisa digunakan untuk mengelola big data
 Jawaban :
-•	MySQL
-•	Oracle
-•	Microsoft SQL Server
+
+OODBMS
+1.Database berorientasi objek Versant 
+2.Objectivity / DB , ObjectDB
+3.ObjectStore.
+
+RDBMS
+1.IBM DB2
+2.MySQL
+3.Microsoft SQL Server
+4.Microsoft Access.
+
+ORDBMS
+1.Oracle Database
+2.PostgreSQL
+3.Microsoft SQL Server .
+
 
 
 Nomor 2
