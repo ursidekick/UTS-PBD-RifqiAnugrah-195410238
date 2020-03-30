@@ -1,7 +1,7 @@
 # UTS-PBD-RifqiAnugrah-195410238
 UTS Pengenalan Big Data - Rifqi Anugrah (195410238)
 
-##Nomor 1
+NOMOR 1
 Cari dan sebutkan 3 DBMS yang bisa digunakan untuk mengelola big data
 Jawaban :
 
@@ -22,7 +22,7 @@ ORDBMS
 
 
 
-Nomor 2
+NOMOR 2
 Carilah contoh masalah big data yang bisa dikelola menggunakan salah satu DBMS tersebut, jelaskan mulai dari instalasi sampai CRUD 
 untuk data menggunakan DBMS tersebut. Asumsikan anda akan memecahkan masalah big data yang sudah anda cari contoh tadi, 
 jelaskan kira-kira bagaimana arsitektur dari solusi big data menggunakan DBMS tersebut, gambarkan diagramnya.
